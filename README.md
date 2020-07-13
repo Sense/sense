@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi everyone 👋
+
+I am not a robot 🤖 but I like them. I love filling CAPTCHA as well, but I'm quite busy working hard on innovative stuff.
+Here are some details about me:
+
+- 🧠 I’m currently working on computer vision & cognitive science applied to artificial intelligence.
+- 📚 I'm happy to help anyone who struggles with code learning.
+- 👯 I’m looking to collaborate on indie products only.
+- 💬 Ask me about anything related to code or humans, I'm at ease with both.
+- ⚡ Fun fact: I already `rm -rf /` my computer without no backup.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jvq_txt?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/jvq_txt)
 
 <!--
 **Sense/sense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
