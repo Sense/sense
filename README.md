@@ -1,9 +1,12 @@
+[![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20Sense&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/sense)
+
 ### Hi everyone 👋
 
 I am not a robot 🤖 but I like them. I love filling CAPTCHA as well, but I'm quite busy working hard on innovative stuff.
 Here are some details about me:
 
-- 🧠 I’m currently working on computer vision & cognitive science applied to artificial intelligence.
+- 🧠 I'm a Software Developer and I'm currently creating [Laravel Shopper](https://github.com/shopperlabs/laravelshopper.io) with some [teammates](https://github.com/shopperlabs) !
+<!-- <> - 🧠 I’m currently working on computer vision & cognitive science applied to artificial intelligence. -->
 - 📚 I'm happy to help anyone who struggles with code learning.
 - 👯 I’m looking to collaborate on indie products only.
 - 💬 Ask me about anything related to code or humans, I'm at ease with both.
