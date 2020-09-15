@@ -5,7 +5,7 @@
 I am not a robot 🤖 but I like them. I love filling CAPTCHA as well, but I'm quite busy working hard on innovative stuff.
 Here are some details about me:
 
-- 🧠 I'm a Software Developer and I'm currently creating [Laravel Shopper](https://github.com/shopperlabs/laravelshopper.io) with some [teammates](https://github.com/shopperlabs) !
+- 🧠 I'm a Software Developer and I'm currently creating **Laravel Shopper** with some [teammates at ShopperLabs](https://github.com/shopperlabs) !
 <!-- <> - 🧠 I’m currently working on computer vision & cognitive science applied to artificial intelligence. -->
 - 📚 I'm happy to help anyone who struggles with code learning.
 - 👯 I’m looking to collaborate on indie products only.
