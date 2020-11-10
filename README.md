@@ -10,8 +10,8 @@ Here are some details about me:
 - 💬 Ask me about anything related to code or humans, I'm at ease with both.
 - ⚡ Fun fact: I already `rm -rf /` my computer without no backup.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jvq_txt?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/jvq_txt)
-[![Discord](https://img.shields.io/discord/268838260153909249?label=Chat&logo=Discord&style=for-the-badge)](https://discord.gg/6NnHbXq)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jvq_txt?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=flat)](https://twitter.com/jvq_txt)
+[![Discord](https://img.shields.io/discord/268838260153909249?label=Chat&logo=Discord&style=flat)](https://discord.gg/6NnHbXq)
 [![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20Sense&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/sense)
 
 <!--
